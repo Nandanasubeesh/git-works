@@ -1,8 +1,8 @@
-Git-Commands
+
 git clone remote path
 git add -A
 git commit -m "Your message"
 git push origin main/master
 git pull
-
+git status
 git-branch
