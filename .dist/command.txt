@@ -1,4 +1,4 @@
-
+Git commands
 git clone remote path
 git add -A
 git commit -m "Your message"
